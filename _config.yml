@@ -48,3 +48,5 @@ transfer:
   settings: -av
   source: _site/
   destination: ~/Git/nicejade.github.com/
+
+theme: jekyll-theme-cayman
